@@ -1,0 +1,8 @@
+
+
+1261 [main] DEBUG BookingServiceTest - Тестирование неуспешного бронирования
+1298 [main] DEBUG BookingServiceTest - Бронирование не удалось
+1298 [main] DEBUG BookingServiceTest - Тест завершен
+1316 [main] DEBUG BookingServiceTest - Тестирование успешного бронирования
+1318 [main] DEBUG BookingServiceTest - Бронирование успешно: true
+1321 [main] DEBUG BookingServiceTest - Тест завершен
